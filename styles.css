@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #ff0000;
+    background-color: #610b0b;
     padding: 20px;
     text-align: center;
 }
@@ -41,7 +41,7 @@ nav a:hover {
 }
 
 .section h2 {
-    border-bottom: 2px solid #ff0000;
+    border-bottom: 2px solid #610b0b;
     padding-bottom: 10px;
 }
 
@@ -70,4 +70,11 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+
+.artwork {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
 }
